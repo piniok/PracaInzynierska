@@ -8,6 +8,9 @@
           }
         
     ],
+    "scripts": {
+        "build": "Laravel build --output public"
+      },
     "routes": [
         {
             "src": "/(.*)",
