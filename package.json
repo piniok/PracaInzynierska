@@ -23,6 +23,7 @@
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "git": "^0.1.5"
+        "git": "^0.1.5",
+        "vercel-php": "^0.4.0"
     }
 }
